@@ -1,5 +1,5 @@
 # Semester Project
-## Tier 4:
+## Tier 5:
 ### Part 1: Choose a Topic
 * Select a topic that is both personally interesting and broadly appealing.
 * Formulate a research question that is not overly trivial.

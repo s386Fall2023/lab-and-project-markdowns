@@ -39,7 +39,7 @@ Below are the basic requirements for each part by Project Tier.  See the [Tiers 
         4. A dashboard is required along with a report
 * [Tier 2: Between Leader and Contributor](Tiers/semester_project_t2.md)
     * **Main Differences from Tier 3**
-        1. Same as Tier 3 
+        1. Documented peer feedback is required for topic and question selection 
         2. Dataset size requirements result in a slightly more complicated dataset; A blog post is required to summarize data collection methods
         3. A blog post is required to summarize the results of the EDA
         4. The final report is not required since the information is encompassed in the two blog posts
