@@ -5,22 +5,22 @@ Here are the files for all the content on the GitHub pages site that doesn't see
 ---
 ## Labs
 
-Lab 1: Getting set up
-Lab 2: Git and GitHub
-Lab 3: Python Practice (with some Anaconda and VS Code)
-Lab 4: OOP and Pandas
-Lab 5: More Pandas
-Lab 6: APIs and Web scraping
+* Lab 1: Getting set up
+* Lab 2: Git and GitHub
+* Lab 3: Python Practice (with some Anaconda and VS Code)
+* Lab 4: OOP and Pandas
+* Lab 5: More Pandas
+* Lab 6: APIs and Web scraping
 
 ---
 ## Projects
 
-Tutorial 
-Semester Project
+* Tutorial 
+* Semester Project
 
 ---
 ## Other Resources
 
-Setting up a blog on GitHub Pages
-Creating a blog post
-Setting up SSH keys
+* Setting up a blog on GitHub Pages (`blogsetup.md`)
+* Creating a blog post (`creatingblogpost.md`)
+* Setting up SSH keys (`sshsetup.md`)
