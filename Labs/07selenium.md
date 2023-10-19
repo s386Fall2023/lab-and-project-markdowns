@@ -19,7 +19,7 @@ conda install -c conda-forge selenium=4.14
 2. Install webdriver-manager if you haven't already done so:
 ```bash
 # in terminal with class environment activated
-conda pip install webdriver-manager
+pip install webdriver-manager
 ```
 3.  Using Selenium, create a DataFrame of the [bestselling](https://www.audible.com/adblbestsellers?ref_pageloadid=h7Ag5cGcQ5yvRAVu&ref=a_search_b1_desktop_footer_column_2_0&pf_rd_p=6a55a63d-48d3-4d5e-857f-ae6682380e4d&pf_rd_r=65QXM553SAAQNRH2VDV2&pageLoadId=yGFSdjIrgVpQDcAP&ref_plink=not_applicable&creativeId=2d835e86-1f10-4f6e-a4c6-33d2001684e6) audio books on audible.
 
