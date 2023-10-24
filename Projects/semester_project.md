@@ -12,10 +12,10 @@ classes: wide
 There are five levels or tiers available for you complete the semester project.  Each tier offers varying levels of complexity and deliverables.  Your chosen tier will guide the expectations for your project, allowing you to decide the level of challenge you wish to undertake.  A semester project of at least Tier 5 is required in order to pass the class. 
 
 Each Project Tier has the same general parts:
-1. Pose a question
-2. Find data to answer the question
-3. Perform an EDA
-4. Present your findings
+1. Pose a question (Oct 27)
+2. Find data to answer the question (Nov 10)
+3. Perform an EDA (Nov 17)
+4. Present your findings (Dec 12)
 
 Below are the basic requirements for each part by Project Tier.  See the [Tiers Folder](Tiers/) for more details.
 
